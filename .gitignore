@@ -1,4 +1,4 @@
-/**/dist/
+/**/fixtures/dist/
 /.idea/
 /coverage/
 /node_modules/
