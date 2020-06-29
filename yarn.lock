@@ -7838,10 +7838,9 @@ postcss-modules@^1.4.1:
     postcss "^7.0.1"
     string-hash "^1.1.1"
 
-postcss-modules@^3.1.0:
-  version "3.1.0"
-  resolved "https://registry.yarnpkg.com/postcss-modules/-/postcss-modules-3.1.0.tgz#2f1b73a6e578e541d7bd0d97e1a6381b9e63de8c"
-  integrity sha512-syZWoIphR0Zg3St8q7zEkEravVIapJlZEafQTSFSiHudwaJfhxgT/8v78xYu3WVNU+bU6DJDvQ1bBGQCi/9Hwg==
+"postcss-modules@https://github.com/Akkuma/postcss-modules/#custom-localsConvention":
+  version "3.2.0"
+  resolved "https://github.com/Akkuma/postcss-modules/#de12a23c988ef79b9b550b23129008e1de778d1a"
   dependencies:
     generic-names "^2.0.1"
     icss-replace-symbols "^1.1.0"
